@@ -94,6 +94,10 @@ Those are restricted access pages
 
 ![](pic/Red 1.4.png)
 
+# Cross-Site Reguest Forgery
+
+All other vulerabilities found except CSRF so i thought it belongs here. i was trying to upload malicious feedback section and wait to admin click it and its trigerred to changing user name but i couldn't figured out how to do it. 
+
 ## Notes
 
 Describe any challenges encountered while doing the work
