@@ -100,14 +100,15 @@ All other vulerabilities found except CSRF so i thought it belongs here. i was t
 
 ![](pic/Red 2.1.png)
 
-![](pic/Red 2.1.png)
+![](pic/Red 2.2.png)
 
-![](pic/Red 2.1.png)
+![](pic/Red 2.3.png)
 
-![](pic/Red 2.1.png)
+![](pic/Red 2.4.png)
 
 Plus only red page loads without error when im changing "csrf_token value"
 
+![](pic/Red 2.5.png)
 
 
 ## Notes
