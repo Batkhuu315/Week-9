@@ -18,7 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 Vulnerability #1: __SQL Injection___
 
-Vulnerability #2: __________________
+Vulnerability #2: __Session Hijacking/Fixation__
 
 
 ## Green
@@ -32,7 +32,7 @@ Vulnerability #2: __Username Enumeration__
 
 Vulnerability #1: __Insecure Direct Object Refence__
 
-Vulnerability #2: __________________
+Vulnerability #2: __Cross-Site Reguest Forgery__
 
 
 ## Notes
