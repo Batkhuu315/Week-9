@@ -20,6 +20,8 @@ Vulnerability #1: __SQL Injection___
 
 Vulnerability #2: __Session Hijacking/Fixation__
 
+![](pic/Blue 1.1.png)
+
 
 ## Green
 
