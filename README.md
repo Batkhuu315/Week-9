@@ -96,7 +96,19 @@ Those are restricted access pages
 
 # Cross-Site Reguest Forgery
 
-All other vulerabilities found except CSRF so i thought it belongs here. i was trying to upload malicious feedback section and wait to admin click it and its trigerred to changing user name but i couldn't figured out how to do it. 
+All other vulerabilities found except CSRF so i thought it belongs here. i was trying to upload malicious feedback section and wait to admin click it and its trigerred to changing user name but i couldn't figured out how to do it or my written code does not work. 
+
+![](pic/Red 2.1.png)
+
+![](pic/Red 2.1.png)
+
+![](pic/Red 2.1.png)
+
+![](pic/Red 2.1.png)
+
+Plus only red page loads without error when im changing "csrf_token value"
+
+
 
 ## Notes
 
