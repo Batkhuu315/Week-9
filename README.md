@@ -1,6 +1,6 @@
 # Week 9 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: **~8** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -98,17 +98,17 @@ Those are restricted access pages
 
 All other vulerabilities found except CSRF so i thought it belongs here. i was trying to upload malicious feedback section and wait to admin click it and its trigerred to changing user name but i couldn't figured out how to do it or my written code does not work. 
 
-![](pic/Red 2.1.png)
+![](pic/Red2.1.png)
 
-![](pic/Red 2.2.png)
+![](pic/Red2.2.png)
 
-![](pic/Red 2.3.png)
+![](pic/Red2.3.png)
 
-![](pic/Red 2.4.png)
+![](pic/Red2.4.png)
 
 Plus only red page loads without error when im changing "csrf_token value"
 
-![](pic/Red 2.5.png)
+![](pic/Red2.5.png)
 
 
 ## Notes
